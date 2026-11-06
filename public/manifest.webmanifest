@@ -1,0 +1,24 @@
+{
+  "name": "India ChatGPT",
+  "short_name": "IndiaChatGPT",
+  "description": "Futuristic AI Assistant by Ankush Sharma powered by Google Gemini",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090D16",
+  "theme_color": "#090D16",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/src/assets/images/india_chatgpt_logo_1793935488895.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/src/assets/images/india_chatgpt_logo_1793935488895.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

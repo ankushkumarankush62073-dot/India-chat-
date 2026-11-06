@@ -1,0 +1,6 @@
+{
+  "name": "India ChatGPT",
+  "description": "Premium AI chatbot platform powered by Google Gemini API, founded by Ankush Sharma. Supporting Hindi, English, and Hinglish with voice, multimodal vision, memory, and Android support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
